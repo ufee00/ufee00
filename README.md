@@ -11,7 +11,7 @@ I'm currently a Computer Science student at Gombe State University, driven by a 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Image Classifier for classifying different kind of flowers](http://github.com/ufee00/My_Two_Udacity_Projects/tree/main/Image_Classifier_Final_Project)
 * ✉️  You can contact me at [ibrahimumarfaruk2000@gmail.com](mailto:ibrahimumarfaruk2000@gmail.com)
-* 🧠  I'm learning Python programming, Data Science.
+* 🧠  I'm currently learning Python programming and Data Science @ Arewa Data Science Academy.
 * 🤝  I'm open to collaborating on Interesting and collaborative project
 
 <a href="https://www.github.com/ufee00" target="_blank" rel="noreferrer"><img
