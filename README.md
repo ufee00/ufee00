@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | AI Enthusiast
 ------------------------------
 
-I'm currently a Computer Science student at Gombe State University, driven by a passion for AI and aspiring to carve a path towards becoming a Data Scientist. My long-term aim is to transition into a role as a Machine Learning Engineer.
+As a Computer Science student at Gombe State University, I'm deeply passionate about AI and have set my sights on becoming a Data Scientist, with a long-term goal of transitioning into a role as a Machine Learning Engineer. I recently completed a project at Udacity where I developed an image classifier capable of identifying various types of flowers.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Image Classifier for classifying different kind of flowers](http://github.com/ufee00/My_Two_Udacity_Projects/tree/main/Image_Classifier_Final_Project)
