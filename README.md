@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | AI Enthusiast
 ------------------------------
 
-As a Computer Science student at Gombe State University, I'm deeply passionate about AI and have set my sights on becoming a Data Scientist, with a long-term goal of transitioning into a role as a Machine Learning Engineer. I recently completed a project at Udacity where I developed an image classifier capable of identifying various types of flowers.
+I have a deep passion for AI and have set my sights on becoming a Data Scientist, with a long-term aspiration of transitioning into a role as a Machine Learning Engineer.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Image Classifier for classifying different kind of flowers](http://github.com/ufee00/My_Two_Udacity_Projects/tree/main/Image_Classifier_Final_Project)
 * ✉️  You can contact me at [ibrahimumarfaruk2000@gmail.com](mailto:ibrahimumarfaruk2000@gmail.com)
-* 🧠  I'm currently learning Python programming and Data Science @ Arewa Data Science Academy.
+* 🧠  I'm currently working to achieve my goal.
 * 🤝  I'm open to collaborating on Interesting and collaborative project
 
 <a href="https://www.github.com/ufee00" target="_blank" rel="noreferrer"><img
