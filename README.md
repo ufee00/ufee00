@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Umar Faruk Ibrahim
 ==========================================================================================================================================
 
-Data Scientist | AI Enthusiast
+Machine Learning Engineer || Data Scientist || AI Enthusiast
 ------------------------------
 
-I have a deep passion for AI and have set my sights on becoming a Data Scientist, with a long-term aspiration of transitioning into a role as a Machine Learning Engineer.
+With a solid background in machine learning and data science, I am a results-oriented and highly motivated computer science graduate, a track record of success in project management, improving teamwork and research projects, and achieving academic achievement. Adept at utilizing Python and machine learning frameworks to deliver impactful solutions, looking for chances to support innovation, engage in research topics and apply my technical skills in a fast-paced environment.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Image Classifier for classifying different kind of flowers](http://github.com/ufee00/My_Two_Udacity_Projects/tree/main/Image_Classifier_Final_Project)
@@ -19,15 +19,16 @@ src="https://img.shields.io/github/followers/ufee00?logo=github&style=for-the-ba
 src="https://img.shields.io/twitter/follow/Ufee2000?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+### EDUCATION
+Bachelor’s Degree, Computer Science 
+•	Gombe State University, 2018 - 2024  
+•	CGPA: 4.67 (First Class)
+•	Grade Range: 1.5 (lowest) to 5.00 (highest)
+
 ### Skills
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* MLP
-* CNN
-* Transfer Learning
+•	Python	    •	Scikit-Learn	  •	Pandas	            •Numpy                •	Matplotlib 
+•	Git	        •	Data Cleaning	  •	Data Visualization	•	Seaborn             • Transfer Learning
+•	MLPs & CNNs	•	Pytorch	        • AWS Lambda Function •	AWS Console	        •	Amazon Sagemaker
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
