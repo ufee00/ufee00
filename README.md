@@ -26,7 +26,7 @@ Bachelor’s Degree, Computer Science
 * Grade Range: 1.5 (lowest) to 5.00 (highest)
 
 ### EXPERIENCE
-* One-to-One Mentorship Program	------------------------------------------------------------2024
+* One-to-One Mentorship Program	------------------------------------------------------------2024  
 As a mentee, I gained insights from professional mentors to achieve my career goals, research experience and improve my communication skills. I worked closely with industry experts to understand real-world applications of Artificial Intelligence, Machine Learning, and received personalized guidance on project development, research and career planning.
 * Fellow, Arewa Data Science Fellowship Program --------------------------------------------2023-2024  
 I built a professional network and enhanced my data analysis, skills by participating in collaborative projects and workshops. I advocated for social change and raised awareness on critical issues through data-driven insights and presentations, contributing to community development and policy-making.
@@ -37,7 +37,7 @@ I built a professional network and enhanced my data analysis, skills by particip
     * As academic director, I led academic activities, fostering leadership, research, learning, and teaching skills by organizing workshops, and tutorials.
     * I enhanced my communication skills through public speaking engagements, motivating and guiding students in their academic pursuits.
 
-### Skills
+### SKILLS
 * Python
 * Scikit-Learn
 * Pandas
