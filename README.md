@@ -21,9 +21,9 @@ src="https://img.shields.io/twitter/follow/Ufee2000?logo=twitter&style=for-the-b
 
 ### EDUCATION
 Bachelor’s Degree, Computer Science
-Gombe State University, 2018 - 2024  
-•	CGPA: 4.67 (First Class)
-•	Grade Range: 1.5 (lowest) to 5.00 (highest)
+* Gombe State University, 2018 - 2024  
+* •	CGPA: 4.67 (First Class)
+* •	Grade Range: 1.5 (lowest) to 5.00 (highest)
 
 ### Skills
 •	Python	    •	Scikit-Learn	  •	Pandas	            •Numpy                •	Matplotlib 
