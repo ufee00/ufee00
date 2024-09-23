@@ -25,6 +25,18 @@ Bachelor’s Degree, Computer Science
 * CGPA: 4.67 (First Class)
 * Grade Range: 1.5 (lowest) to 5.00 (highest)
 
+### EXPERIENCE
+* One-to-One Mentorship Program	------------------------------------------------------------2024
+As a mentee, I gained insights from professional mentors to achieve my career goals, research experience and improve my communication skills. I worked closely with industry experts to understand real-world applications of Artificial Intelligence, Machine Learning, and received personalized guidance on project development, research and career planning.
+* Fellow, Arewa Data Science Fellowship Program --------------------------------------------2023-2024  
+I built a professional network and enhanced my data analysis, skills by participating in collaborative projects and workshops. I advocated for social change and raised awareness on critical issues through data-driven insights and presentations, contributing to community development and policy-making.
+* Machine Learning Engineer, Google Developer Student Clubs (GDSC), GSU Chapter ------------2022-2023
+    * As a Machine Learning Engineer in GDSC, I managed machine learning projects, fostering teamwork and organizational skills by leading a diverse team of students.
+    * My communication and presentation skills improved through workshops and public speaking engagements.
+* Academic Director, Nigerian Association of Computing Students (NACOS) --------------------2023
+    * As academic director, I led academic activities, fostering leadership, research, learning, and teaching skills by organizing workshops, and tutorials.
+    * I enhanced my communication skills through public speaking engagements, motivating and guiding students in their academic pursuits.
+
 ### Skills
 * Python
 * Scikit-Learn
