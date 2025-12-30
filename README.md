@@ -38,6 +38,9 @@ I built a professional network and enhanced my data analysis, skills by particip
     * I enhanced my communication skills through public speaking engagements, motivating and guiding students in their academic pursuits.
 
 ### SKILLS
+* Ms Excel
+* SQL
+* MYSQL
 * Python
 * Scikit-Learn
 * Pandas
